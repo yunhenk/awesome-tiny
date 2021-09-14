@@ -15,3 +15,6 @@ compiler
 
 ray tracing
 - [Ray Tracing in One Weekend Book Series](https://github.com/RayTracing/raytracing.github.io)
+
+http
+- [tinyhttpd] (https://github.com/EZLippi/Tinyhttpd)
